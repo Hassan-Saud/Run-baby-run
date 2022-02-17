@@ -1,3 +1,5 @@
+//0089-bscs-19(gcu lahore)
+//hassan saud
 #include <stdio.h>
 #include <string.h>
 #include <sys/types.h>
